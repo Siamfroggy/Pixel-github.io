@@ -1,0 +1,7 @@
+{
+  "pixelApi": {
+    "api": "https://api.pexels.com/v1/search?query=<query>&per_page=<count>",
+    "apikey": "DQDIImRX5dY99lv9JdCw9VFZ7b8T2OzqPlB8wxWRY7OCdcnI45QTtsZa",
+    "author": "SiamTheFrog"
+  }
+}
